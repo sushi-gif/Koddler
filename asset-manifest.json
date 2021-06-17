@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00dd5525.chunk.css",
+    "main.js": "/static/js/main.b5807d57.chunk.js",
+    "main.js.map": "/static/js/main.b5807d57.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e2a5e63.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e2a5e63.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.40797d78.chunk.js": "/static/js/2.40797d78.chunk.js",
+    "static/js/2.40797d78.chunk.js.map": "/static/js/2.40797d78.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.00dd5525.chunk.css.map": "/static/css/main.00dd5525.chunk.css.map",
+    "static/js/2.40797d78.chunk.js.LICENSE.txt": "/static/js/2.40797d78.chunk.js.LICENSE.txt",
+    "static/media/dummy.927b2041.jpg": "/static/media/dummy.927b2041.jpg",
+    "static/media/nature.b1a2f8ed.svg": "/static/media/nature.b1a2f8ed.svg",
+    "static/media/scooter.png": "/static/media/scooter.acdc7263.png",
+    "static/media/user.png": "/static/media/user.0403bf85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e2a5e63.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.40797d78.chunk.js",
+    "static/css/main.00dd5525.chunk.css",
+    "static/js/main.b5807d57.chunk.js"
+  ]
+}
